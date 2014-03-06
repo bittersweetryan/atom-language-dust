@@ -1,8 +1,8 @@
 {
   "name": "language-dust",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "private": true,
-  "description": "Port of https://github.com/jimmyhchan/Dustjs.tmbundle for atome",
+  "description": "Port of https://github.com/jimmyhchan/Dustjs.tmbundle for atom editor",
   "repository": "https://github.com/bittersweetryan/atom-language-dust",
   "license": "MIT",
   "engines": {
