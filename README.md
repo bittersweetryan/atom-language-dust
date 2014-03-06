@@ -1,3 +1,3 @@
 # language-dust package
 
-A short description of your package.
+atom port of https://github.com/bittersweetryan/atom-language-dust
